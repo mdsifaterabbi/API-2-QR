@@ -1,0 +1,2 @@
+# API-2-QR
+This is a simple QR code generator using js and free API
